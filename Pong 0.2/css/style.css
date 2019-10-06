@@ -1,0 +1,33 @@
+
+        .bar{
+            width: 30px;
+            height: 180px;
+            background-color: greenyellow;
+            position: absolute;
+            left: 70px;
+        }
+
+        .b02{
+            left: 93%;
+        }
+
+        body{
+            background-color: blue;
+        }
+
+        .pontos{
+            text-align: center;
+            font-size: 130px;
+            margin: 0px;
+            color: red;
+        }
+
+        .ball{
+            width: 60px;
+            height: 60px;
+            border-radius: 100px;
+            background-color: orangered;
+            position: absolute;
+            top: 45%;
+            left: 48%;
+        }
